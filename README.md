@@ -35,5 +35,5 @@ Welcome to my digital workspace! I am passionate about the intersection of cyber
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abyjays&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </div>
