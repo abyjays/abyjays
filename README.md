@@ -72,8 +72,8 @@ I'm a Cyber Forensics student with a passion for understanding technology from b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyjays&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <br/><br/>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=abyjays&icon=0&color=0&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abyjays&icon=0&color=7aa2f7&style=flat-square" alt="Profile Views" />
+</a>
 </div>
 
 ---
